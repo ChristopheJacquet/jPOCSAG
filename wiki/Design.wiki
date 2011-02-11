@@ -1,0 +1,19 @@
+#labels Featured
+#Describes briefly how jPOCSAG works
+
+= Introduction =
+
+POCSAG is a paging protocol originally developed by the British Post Office.
+
+The binary data, in the form of a rectangular signal, is directly used to modulate the carrier wave in FSK, with a shift of ± 4.5 kHz. 
+
+Unfortunately a narrowband FM (NFM) receiver such as an amateur radio rig will filter the signals narrower than 4.5 kHz, so you don't get a nice rectangular signal out of the earphone plug. One solution is to use (or add) a discriminator output, but it often proves impractical.
+
+Considering the derivative of the signals and using a software [http://en.wikipedia.org/wiki/Schmitt_trigger Schmitt trigger] with adaptive threshold, jPOCSAG achieves to reconstruct the original signals in the vast majority of the cases.
+
+
+= POCSAG information =
+
+  * [http://hem.passagen.se/communication/pocsag.html POCSAG experiments]
+  * [http://www.braddye.com/epocsag.html The POCSAG paging protocol]
+  * [http://en.wikipedia.org/wiki/POCSAG Wikipedia - POCSAG]
