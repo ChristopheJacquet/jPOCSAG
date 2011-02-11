@@ -1,6 +1,4 @@
 #labels Featured
-#Describes briefly how jPOCSAG works
-
 = Introduction =
 
 POCSAG is a paging protocol originally developed by the British Post Office.
