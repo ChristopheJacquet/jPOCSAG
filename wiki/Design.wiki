@@ -1,5 +1,5 @@
+#summary This page describes the main design ideas underlying jPOCSAG.
 #labels Featured
-This page describes the main design ideas underlying jPOCSAG.
 
 = Introduction to receiving POCSAG =
 
