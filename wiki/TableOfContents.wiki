@@ -5,4 +5,4 @@
 
 ----
 
-[http://www.jacquet80.eu/ Christophe Jacquet's website]
+  * [http://www.jacquet80.eu/ Christophe Jacquet's website]
