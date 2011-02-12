@@ -1,0 +1,13 @@
+#Screenshots of jPOCSAG
+
+= Main window =
+
+http://jpocsag.googlecode.com/svn/wiki/images/main_window.png
+
+= Message window =
+
+When clicking on a message, jPOCSAG displays the details of the frames:
+
+http://jpocsag.googlecode.com/svn/wiki/images/message_window.png
+
+Blocks that contain errors are in blue or red. Blocks in blue _appear_ to have been corrected successfully. Blocks in red were not correctable.
