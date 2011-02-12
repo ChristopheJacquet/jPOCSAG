@@ -1,3 +1,4 @@
 #summary Table of contents
 
-  * [Design Design principles for jPOCSAG]
+  * [Design Design of jPOCSAG]
+  * [Screenshots Screenshots]
