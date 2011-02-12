@@ -1,4 +1,4 @@
-#Screenshots of jPOCSAG
+#summary Screenshots of jPOCSAG
 
 = Main window =
 
