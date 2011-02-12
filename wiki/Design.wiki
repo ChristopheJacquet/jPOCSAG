@@ -4,7 +4,7 @@
 
 POCSAG is a paging protocol originally developed by the British Post Office.
 
-The binary data, in the form of a rectangular signal, is directly used to modulate the carrier wave in FSK, with a shift of ± 4.5 kHz. Concretely, if the carrier wave has a frequency of 145 MHz, then actually the transmitted signal is a sine wave, at times of 145,004.5 kHZ, and at times of 144,995.5 kHz.
+The binary data, in the form of a rectangular signal, is directly used to modulate the carrier wave in FSK, with a shift of ± 4.5 kHz. Concretely, if the carrier wave has a frequency of 145 MHz, then actually the transmitted signal is a sine wave, at times of 145,004.5 kHz, and at times of 144,995.5 kHz.
 
 This means that an FM receiver should recover a rectangular signal after the discriminator stage. Unfortunately a narrowband FM (NFM) receiver such as an amateur radio rig will filter the signals at ± 2.5 kHz, so you don't get a nice rectangular signal out of the earphone plug when listening to POCSAG. One solution is to use (or add) a discriminator output, but it often proves impractical.
 
