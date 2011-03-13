@@ -44,6 +44,9 @@ The “threshold diagram” above is displayed on jPOCSAG's interface to give th
   * [http://hem.passagen.se/communication/pocsag.html POCSAG experiments]
   * [http://www.braddye.com/epocsag.html The POCSAG paging protocol]
   * [http://en.wikipedia.org/wiki/POCSAG Wikipedia - POCSAG]
+  * [http://www.braddye.com/pocsag.html The POCSAG Recommendation]
+  * [http://www.aaroncake.net/schoolpage/pocsag.htm The POCSAG Paging Protocol]
+  * [http://www.wavecom.ch/onlinehelp/WCODE/default.htm?turl=WordDocuments%2Fpocsag.htm WAVECOM – POCSAG]
 
 ----
-Christophe Jacquet, F8FTK, 2011-02-12.
+Christophe Jacquet, F8FTK, 2011-03-13.
